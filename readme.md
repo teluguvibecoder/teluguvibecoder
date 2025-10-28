@@ -12,8 +12,8 @@
 
 **వైబ్ tho start ayyi కోడ్ tho nadiche ee journey, మేజిక్ tho mugusthundhi!** 🎨✨💻
 
-[![YouTube](https://img.shields.io/badge/YouTube-Telugu_Vibe_Coder-red?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR_YOUTUBE_URL](https://www.youtube.com/@telugu_vibe_coder))
-[![Instagram](https://img.shields.io/badge/Instagram-@teluguvibecoder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/telugu_vibe_coder/))
+[![YouTube](https://img.shields.io/badge/YouTube-Telugu_Vibe_Coder-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@telugu_vibe_coder)
+[![Instagram](https://img.shields.io/badge/Instagram-@teluguvibecoder-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/telugu_vibe_coder/)
 [![Twitter](https://img.shields.io/badge/Twitter-@teluguvibecoder-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_URL)
 
@@ -24,10 +24,10 @@
 ## 🌊 The Vibe Philosophy
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/teluguvibecoder/teluguvibecoder/main/1.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/teluguvibecoder/teluguvibecoder/main/2.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/teluguvibecoder/teluguvibecoder/main/3.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
-  <img src="https://raw.githubusercontent.com/teluguvibecoder/teluguvibecoder/main/4.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
+  <img src="https://github.com/teluguvibecoder/teluguvibecoder/blob/main/1.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
+  <img src="https://github.com/teluguvibecoder/teluguvibecoder/blob/main/2.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
+  <img src="https://github.com/teluguvibecoder/teluguvibecoder/blob/main/3.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
+  <img src="https://github.com/teluguvibecoder/teluguvibecoder/blob/main/4.png" width="340" style="margin: 10px; border: 2px solid #FFD700; border-radius: 10px;">
 </p>
 
 ## 🚀 Vibe Projects Counter
