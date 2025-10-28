@@ -40,13 +40,18 @@
 
 
 ## 💫 What's a Vibe Project?
+A **Vibe Project** code matarame kaadhu, It's an experience. Meeku random ga 2AM ki ochina idea and you believe idhi exist aitey bale thrilling ga untadhi asala, that "what if idhi unte?" keeps you awake. Ee channel oka main motivation kuda adhey, we take these vibes and transform them into reality.
 
-A **Vibe Project** is not just code. It's an experience. It's that random 2 AM idea that you can't shake off. It's the "what if?" that keeps you awake. At Telugu Vibe Coder, we take these vibes and transform them into reality through:
+<div align="center">
+    <img src="https://i.pinimg.com/originals/fc/2d/da/fc2dda29c06e6f9d40de5ebddcc8f515.gif" />
+</div>
 
 - **Creative Coding** - Making code beautiful and interactive
-- **Experimental Ideas** - The weirder, the better
-- **Community Collaboration** - Your ideas + Our code = Magic
-
+- **Experimental Ideas** - The weirder, the more exciting
+- **Community Collaboration** - Our ideas + Our code = Magic
+```ascii
+Raa Bro, Community build chedham and exiciting projects build chedham. Just for fun anthey.
+```
 ## 🎪 The Vibe Wall
 
 <div align="center">
@@ -78,12 +83,6 @@ A **Vibe Project** is not just code. It's an experience. It's that random 2 AM i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teluguvibecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ## 💌 Let's Connect
 
