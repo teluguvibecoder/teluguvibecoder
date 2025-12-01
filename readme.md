@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Projects Done](https://img.shields.io/badge/Projects_Completed-1-blue?style=for-the-badge&logo=github&color=0E75B6)
+![Projects Done](https://img.shields.io/badge/Projects_Completed-2-blue?style=for-the-badge&logo=github&color=0E75B6)
 
 </div>
 
